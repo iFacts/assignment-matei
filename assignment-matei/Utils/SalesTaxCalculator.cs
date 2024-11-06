@@ -76,7 +76,6 @@ namespace assignment_matei.Utils
             }
 
             return result;
-
         }
     }
 }
