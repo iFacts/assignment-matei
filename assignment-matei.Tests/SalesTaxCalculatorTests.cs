@@ -1,4 +1,7 @@
 ﻿using System.Linq;
+using assignment_matei.Enums;
+using assignment_matei.Models;
+using assignment_matei.Utils;
 using NUnit.Framework;
 
 namespace Tests
